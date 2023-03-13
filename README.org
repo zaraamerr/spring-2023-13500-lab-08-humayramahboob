@@ -1,10 +1,10 @@
 * Spring 2023 - Lab 08
 
-* Last name:
+* Last name: Mahboob
 
-* First name:
+* First name: Humayra
 
-* GitHub username:
+* GitHub username: humayramahboob
 
 * Notes:
 
