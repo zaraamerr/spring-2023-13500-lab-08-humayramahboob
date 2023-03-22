@@ -1,3 +1,11 @@
+/* 
+Author: Humayra Mahboob
+Date: 3/22/2023
+Course: CS-135
+Assignment: LAB 8
+Instructor: Michael Zamansky
+*/
+
 #include <iostream>
 #include <string>
 #include "funcs.h"
