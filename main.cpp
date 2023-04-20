@@ -20,19 +20,18 @@ int main() {
 	int w = 0;
 	std::string input("inImage.pgm");
 	readImage(input,img,h,w);
-	std::cout << "--------------------------" << std::endl;
+	// Task A
 	invert(img,h,w);
-	std::cout << "--------------------------" << std::endl;
+	//Task B
 	invert_half(img,h,w);
-	std::cout << "--------------------------" << std::endl;
+	//Task C
 	box(img,h,w);
-	std::cout << "--------------------------" << std::endl;
+	//Task D
 	frame(img,h,w);
-	std::cout << "--------------------------" << std::endl;
+	//Task E
 	scale(img,h,w);
-	std::cout << "--------------------------" << std::endl;
+	//Task F
 	pixelate(img,h,w);
-	std::cout << "--------------------------" << std::endl;
 	return 0;
 }
 
