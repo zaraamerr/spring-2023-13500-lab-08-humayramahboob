@@ -8,6 +8,9 @@ Instructor: Michael Zamansky
 
 #include <iostream>
 #include <string>
+#include <fstream>
+#include <cstdlib>
+#include <cassert>
 #include "funcs.h"
 #include "imageio.h"
 
